@@ -1,0 +1,49 @@
+# IDE
+#####
+
+*.iml
+.classpath
+.project
+.settings/
+.idea
+.vs
+.vscode/
+
+# Build results
+###############
+bin/
+build/
+target/
+dist/
+
+# Build tool configurations
+###########################
+.ivy
+.sass-cache
+build_gradle
+node_modules
+.gradle
+
+# Other
+#######
+test-coverage
+tmp
+.web_bundle_build
+/bundles
+/gradle-*.properties
+/plugins-sdk/**/classes
+/plugins-sdk/**/ivy.xml.MD5
+/plugins-sdk/**/liferay-hook.xml.processed
+/plugins-sdk/build.*.properties
+/plugins-sdk/dependencies/**/*.jar
+/plugins-sdk/dist
+/plugins-sdk/lib
+test-results
+
+# Project specific
+##################
+.metadata/
+
+# Exceptions
+##################
+!/modules/ris-sitzung-portlet/src/main/resources/META-INF/resources/js/libs/mobiscroll-5.26.0.dev/dist/

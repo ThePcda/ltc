@@ -1,0 +1,8 @@
+//(C) Adrian Suslik (klauen ist ehrenlos, aber als Polacke kann ich das verstehen)
+ext {
+
+    MAIN_CLASS = 'com.pcda.ltc.main.Main'
+
+    projectVersion = '1.0.0'
+
+}

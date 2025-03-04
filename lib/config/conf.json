@@ -1,0 +1,20 @@
+{
+    "ws_obis": {
+        "tomcat-home-name": "tomcat-9.0.17",
+        "inc-args": [
+            "--c-work",
+            "--c-osgi-state",
+            "--c-tomcat-temp"
+        ]
+    },
+    "ws_KVP": {
+        "liferay-home-name": "portal-7.4-ga86",
+        "tomcat-home-name": "tomcat-9.0.75",
+        "inc-args": [
+            "--c-work",
+            "--c-osgi-state",
+            "--c-tomcat-temp",
+            "--c-tomcat-work"
+        ]
+    }
+}

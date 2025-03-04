@@ -1,0 +1,76 @@
+============================================================
+===Error: 1=================================================
+============================================================
+
+java.io.FileNotFoundException: Directory 'C:\Workspaces\ws_ltc\ltc\lib\bundles\liferay\osgi\state' does not exist.
+	at org.apache.commons.io.FileUtils.requireDirectoryExists(FileUtils.java:2803)
+	at org.apache.commons.io.FileUtils.listFiles(FileUtils.java:2270)
+	at org.apache.commons.io.FileUtils.cleanDirectory(FileUtils.java:367)
+	at com.pcda.ltc.command.LTCCommand.run(LTCCommand.java:116)
+	at picocli.CommandLine.executeUserObject(CommandLine.java:2030)
+	at picocli.CommandLine.access$1500(CommandLine.java:148)
+	at picocli.CommandLine$RunLast.executeUserObjectOfLastSubcommandWithSameParent(CommandLine.java:2465)
+	at picocli.CommandLine$RunLast.handle(CommandLine.java:2457)
+	at picocli.CommandLine$RunLast.handle(CommandLine.java:2419)
+	at picocli.CommandLine$AbstractParseResultHandler.execute(CommandLine.java:2277)
+	at picocli.CommandLine$RunLast.execute(CommandLine.java:2421)
+	at picocli.CommandLine.execute(CommandLine.java:2174)
+	at com.pcda.ltc.main.Main.main(Main.java:10)
+
+============================================================
+===Error: 2=================================================
+============================================================
+
+java.io.FileNotFoundException: Directory 'C:\Workspaces\ws_ltc\ltc\lib\bundles\liferay\work' does not exist.
+	at org.apache.commons.io.FileUtils.requireDirectoryExists(FileUtils.java:2803)
+	at org.apache.commons.io.FileUtils.listFiles(FileUtils.java:2270)
+	at org.apache.commons.io.FileUtils.cleanDirectory(FileUtils.java:367)
+	at com.pcda.ltc.command.LTCCommand.run(LTCCommand.java:116)
+	at picocli.CommandLine.executeUserObject(CommandLine.java:2030)
+	at picocli.CommandLine.access$1500(CommandLine.java:148)
+	at picocli.CommandLine$RunLast.executeUserObjectOfLastSubcommandWithSameParent(CommandLine.java:2465)
+	at picocli.CommandLine$RunLast.handle(CommandLine.java:2457)
+	at picocli.CommandLine$RunLast.handle(CommandLine.java:2419)
+	at picocli.CommandLine$AbstractParseResultHandler.execute(CommandLine.java:2277)
+	at picocli.CommandLine$RunLast.execute(CommandLine.java:2421)
+	at picocli.CommandLine.execute(CommandLine.java:2174)
+	at com.pcda.ltc.main.Main.main(Main.java:10)
+
+============================================================
+===Error: 3=================================================
+============================================================
+
+java.io.FileNotFoundException: Directory 'C:\Workspaces\ws_ltc\ltc\lib\bundles\liferay\tomcat\temp' does not exist.
+	at org.apache.commons.io.FileUtils.requireDirectoryExists(FileUtils.java:2803)
+	at org.apache.commons.io.FileUtils.listFiles(FileUtils.java:2270)
+	at org.apache.commons.io.FileUtils.cleanDirectory(FileUtils.java:367)
+	at com.pcda.ltc.command.LTCCommand.run(LTCCommand.java:116)
+	at picocli.CommandLine.executeUserObject(CommandLine.java:2030)
+	at picocli.CommandLine.access$1500(CommandLine.java:148)
+	at picocli.CommandLine$RunLast.executeUserObjectOfLastSubcommandWithSameParent(CommandLine.java:2465)
+	at picocli.CommandLine$RunLast.handle(CommandLine.java:2457)
+	at picocli.CommandLine$RunLast.handle(CommandLine.java:2419)
+	at picocli.CommandLine$AbstractParseResultHandler.execute(CommandLine.java:2277)
+	at picocli.CommandLine$RunLast.execute(CommandLine.java:2421)
+	at picocli.CommandLine.execute(CommandLine.java:2174)
+	at com.pcda.ltc.main.Main.main(Main.java:10)
+
+============================================================
+===Error: 4=================================================
+============================================================
+
+java.io.FileNotFoundException: Directory 'C:\Workspaces\ws_ltc\ltc\lib\bundles\liferay\tomcat\work' does not exist.
+	at org.apache.commons.io.FileUtils.requireDirectoryExists(FileUtils.java:2803)
+	at org.apache.commons.io.FileUtils.listFiles(FileUtils.java:2270)
+	at org.apache.commons.io.FileUtils.cleanDirectory(FileUtils.java:367)
+	at com.pcda.ltc.command.LTCCommand.run(LTCCommand.java:116)
+	at picocli.CommandLine.executeUserObject(CommandLine.java:2030)
+	at picocli.CommandLine.access$1500(CommandLine.java:148)
+	at picocli.CommandLine$RunLast.executeUserObjectOfLastSubcommandWithSameParent(CommandLine.java:2465)
+	at picocli.CommandLine$RunLast.handle(CommandLine.java:2457)
+	at picocli.CommandLine$RunLast.handle(CommandLine.java:2419)
+	at picocli.CommandLine$AbstractParseResultHandler.execute(CommandLine.java:2277)
+	at picocli.CommandLine$RunLast.execute(CommandLine.java:2421)
+	at picocli.CommandLine.execute(CommandLine.java:2174)
+	at com.pcda.ltc.main.Main.main(Main.java:10)
+

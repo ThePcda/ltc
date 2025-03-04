@@ -1,0 +1,8 @@
+//(C) Adrian Suslik (klauen ist ehrenlos, aber als Polacke kann ich das verstehen)
+plugins {
+    id("org.gradle.toolchains.foojay-resolver-convention") version "0.7.0"
+}
+
+rootProject.name = "ltc"
+
+include("lib")
