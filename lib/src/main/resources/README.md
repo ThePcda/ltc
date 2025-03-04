@@ -124,10 +124,8 @@ Diese sind die gleichen wie auch bei [Commands](#commands)
 
 #### Ending
 
-Ich werde immer wieder mal was erweitern oder verbessern, wenn ihr als was wissen wollt</br>
-oder die neue Version möchtet einfach auf mich zukommen.</br>
-Sehr gut möglich, dass hier in Zukunft ein GitHub-Link zu finden ist.
+Repository: https://github.com/ThePcda/ltc
 
-Bei Anregungen oder Verbesserungsvorschläge kann man natürlich ebenfalls auf mich zu kommen.
+Bei Anregungen oder Verbesserungsvorschläge kann man natürlich auf mich zu kommen.
 
 Mit dieser App könnt machen was ihr wollt, außer es zu Kapital machen.
